@@ -1,4 +1,4 @@
-# -Automated-Detection-of-Endometrial-Polyps-in-Hysteroscopy
+# Automated-Detection-of-Endometrial-Polyps-in-Hysteroscopy
 
 Endometrial polyps are identified by the overgrowth of endometrial glands, stroma, and blood vessels in the uterine lining. 
 Typical symptoms of polyps include abnormal uterine bleeding, pelvic pain, and infertility. 
