@@ -13,6 +13,8 @@ This project aims to create a computer-aided system to enhance the detection and
 Each code file in this project is independent, meaning there are no dependencies among them. The writer used Jupyter Lab to run the codes. 
 To get started, download both the image datasets and the code files. You can then run the code files individually to observe their performance.
 
+The datasets used in this project were prepared on a MacBook. Because of this, sometimes .DS_Store files also occupy the image datasets. While these files don't impact the functionality of the code, they might cause errors during execution. We recommend removing these files before running the code to ensure a smooth execution process. You can do so by running a command like `find . -name ".DS_Store" -delete` in the dataset directory.
+
 
 
 1.	** image_preprocessing.ipynb **: 
